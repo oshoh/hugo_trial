@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://oshoh.github.io/hugo_trial/categories/</loc>
+    <loc>https://oshoh.github.io/hugo_trial/posts/hoge/</loc>
+    <lastmod>2021-09-01T07:54:06+09:00</lastmod>
   </url><url>
     <loc>https://oshoh.github.io/hugo_trial/</loc>
+    <lastmod>2021-09-01T07:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://oshoh.github.io/hugo_trial/posts/</loc>
+    <lastmod>2021-09-01T07:54:06+09:00</lastmod>
+  </url><url>
+    <loc>https://oshoh.github.io/hugo_trial/posts/my-first-post/</loc>
+    <lastmod>2021-09-01T07:52:44+09:00</lastmod>
+  </url><url>
+    <loc>https://oshoh.github.io/hugo_trial/categories/</loc>
   </url><url>
     <loc>https://oshoh.github.io/hugo_trial/tags/</loc>
   </url>
